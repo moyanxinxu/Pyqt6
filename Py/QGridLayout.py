@@ -1,16 +1,3 @@
-# file: calculator.py
-#!/usr/bin/python
-
-"""
-ZetCode PyQt6 tutorial
-
-In this example, we create a skeleton
-of a calculator using QGridLayout.
-
-Author: Jan Bodnar
-Website: zetcode.com
-"""
-
 import sys
 from PyQt6.QtWidgets import (QWidget, QGridLayout,
         QPushButton, QApplication)
